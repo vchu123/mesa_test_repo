@@ -1,0 +1,4 @@
+newTable ("test3") {
+  startWith "test1"
+  newColumn "Foo",function:A.&foo,args:["FirstName"]
+}
