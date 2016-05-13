@@ -1,0 +1,3 @@
+newTable ("test2") {
+  startWith "test1"
+}

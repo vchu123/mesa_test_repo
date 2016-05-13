@@ -1,0 +1,3 @@
+newTable ("test1") {
+  startWith "Users/admin/real"
+}
