@@ -1,4 +1,4 @@
 newTable ("test3") {
-  startWith "test1"
+  startWith "Users/admin/real"
   newColumn "Foo",function:A.&foo,args:["FirstName"]
 }
