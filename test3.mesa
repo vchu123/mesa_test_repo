@@ -1,4 +1,4 @@
 newTable ("test3") {
   startWith "test_data_folder/students"
   newColumn "Foo",function:A.&foo,args:["FirstName"]
-}
+} 
